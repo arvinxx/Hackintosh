@@ -1,4 +1,4 @@
-# Hackintosh of i7 8700K - TUF Z370-PLUS GAMING - Vega 56
+# 黑苹果 i7 8700K / TUF Z370-PLUS GAMING / Vega 56 / OC Clover 引导配置
 
 [Clover 版](https://github.com/arvinxx/Hackintosh/tree/clover)
 
