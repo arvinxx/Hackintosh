@@ -24,13 +24,15 @@ for i7 8700K / TUF Z370-PLUS GAMING / Vega 56
 
 ![catalina](https://gw.alipayobjects.com/zos/antfincdn/gOgujHJa4Z/7326082b-61bd-4577-a670-d3d3ff713b5e.png)
 
-| 特性       | 支持状态 | 备注              |
-| ---------- | -------- | ----------------- |
-| 变频/睿频  | ✅       |
-| 硬件加速   | ✅       |
-| 内建声卡   | ✅       |
-| Wifi       | ✅       | BCM943xx 系列免驱 |
-| 蓝牙       | ✅       | BCM943xx 系列免驱 |
-| USB 3.X    | ✅       |
-| 睡眠与唤醒 | ✅       |
-| HiDPI      | ❌       |
+| 特性       | 支持状态 | 备注                                               |
+| ---------- | -------- | -------------------------------------------------- |
+| 变频/睿频  | ✅       | [检测工具（Intel Power Gadget）][intel-power-gadget] |
+| 硬件加速   | ✅       ||
+| 内建声卡   | ✅       ||
+| Wifi       | ✅       | BCM943xx 系列免驱                                  |
+| 蓝牙       | ✅       | BCM943xx 系列免驱                                  |
+| USB 3.X    | ✅       ||
+| 睡眠与唤醒 | ✅       ||
+| HiDPI      | ❌       ||
+
+[intel-power-gadget]: https://software.intel.com/content/www/us/en/develop/articles/intel-power-gadget.html#attachment-heading
