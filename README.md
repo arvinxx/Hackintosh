@@ -9,7 +9,7 @@ for i7 8700K / TUF Z370-PLUS GAMING / Vega 56
 
 | 硬件            | 配置                                           |
 | --------------- | ---------------------------------------------- |
-| CPU             | Intel Core i7-8700K\@3.70GHz 六核               |
+| CPU             | Intel Core i7-8700K 六核 3.70GHz               |
 | 主板            | 华硕 Asus TUF Z370-PLUS GAMING (Z370 芯片组)   |
 | 显卡            | 蓝主石 Sapphire AMD Radeon RX Vega56 8GB       |
 | 内存            | 芝奇 32GB (16GB\*2) DDR4 3600MHz               |
