@@ -1,4 +1,4 @@
-# 黑苹果 OC Clover 引导配置
+# 黑苹果 OC/Clover 引导配置
 
 for i7 8700K / TUF Z370-PLUS GAMING / Vega 56
 
