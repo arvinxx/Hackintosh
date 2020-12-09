@@ -4,16 +4,16 @@
 
 ## 硬件
 
-| 硬件            | 配置                                         |
-| --------------- | -------------------------------------------- |
-| CPU             | Intel Core i7-8700K@3.70GHz 六核             |
-| 主板            | 华硕 Asus TUF Z370-PLUS GAMING (Z370 芯片组) |
-| 显卡            | 蓝主石 Sapphire AMD Radeon RX Vega56 8GB     |
-| 内存            | 芝奇 32GB(16GB\*2 DDR4 3600MHz )             |
-| 网卡 & 蓝牙     | Broadcom BCM94360 双天线                     |
-| SSD 1 (macOS)   | Samsung SSD 970 Plus 2TB(2TB/固态硬盘)       |
-| SSD 2 (windows) | Samsung SSD 960 EVO 250GB(250GB/固态硬盘)    |
-| HDD             | 西部数据 2TB( ST2000DM006-2DM164)            |
+| 硬件            | 配置                                           |
+| --------------- | ---------------------------------------------- |
+| CPU             | Intel Core i7-8700K@3.70GHz 六核               |
+| 主板            | 华硕 Asus TUF Z370-PLUS GAMING (Z370 芯片组)   |
+| 显卡            | 蓝主石 Sapphire AMD Radeon RX Vega56 8GB       |
+| 内存            | 芝奇 32GB (16GB\*2) DDR4 3600MHz               |
+| 网卡 & 蓝牙     | 博通 Broadcom BCM94360 双天线                  |
+| SSD 1 (macOS)   | 三星 Samsung SSD 970 Plus 2TB(2TB/固态硬盘)    |
+| SSD 2 (windows) | 三星 Samsung SSD 960 EVO 250GB(250GB/固态硬盘) |
+| HDD             | 西部数据 2TB( ST2000DM006-2DM164)              |
 
 ## 支持状态
 
