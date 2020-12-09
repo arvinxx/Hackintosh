@@ -34,6 +34,7 @@ for i7 8700K / TUF Z370-PLUS GAMING / Vega 56
 | USB 3.X    | ✅       |
 | 睡眠与唤醒 | ✅       |
 | HiDPI      | ✅       |
+| 自动更新   | ✅       |
 
 存在问题:
 
