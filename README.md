@@ -1,6 +1,9 @@
-# 黑苹果 i7 8700K / TUF Z370-PLUS GAMING / Vega 56 / OC Clover 引导配置
+# 黑苹果 OC Clover 引导配置
 
-[Clover 版](https://github.com/arvinxx/Hackintosh/tree/clover)
+for i7 8700K / TUF Z370-PLUS GAMING / Vega 56
+
+- [OpenCore 配置](https://github.com/arvinxx/Hackintosh)
+- [Clover 配置(已归档)](https://github.com/arvinxx/Hackintosh/tree/clover)
 
 ## 硬件
 
